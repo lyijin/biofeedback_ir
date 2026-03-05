@@ -47,6 +47,6 @@ Fig 3 was, unsurprisingly, generated with the R script `02_plot_fig3.R`.
 
 Feel free to view the HTML instead of downloading the R scripts, using the aforementioned method of finding the download button & view the file locally.
 
-Post-processing of figures (moving subfigures to where they should go, making A B C D E bigger and stand out more, plus prettying things) was done with Affinity Designer v1.1, as Adobe's gotten too dang pricey. Affinity's now free apparently, after getting acquired by Canva. This new Affinity (v2) can open older files--i.e., you can open and view the `*.afdesigner` files in this repo, but you can't save it back into the old v1 format. Planned obsolescence, hooray.
+Post-processing of raw figures (the `raw_*.pdf` files; stuff like, moving subfigures to where they should go, making A B C D E bigger and stand out more, plus prettying things) was done with Affinity Designer v1.1, as Adobe's gotten too dang pricey. Affinity's now free apparently, after getting acquired by Canva. This new Affinity (v2) can open older files--i.e., you can open and view the `*.afdesigner` files in this repo, but you can't save it back into the old v1 format. Planned obsolescence, hooray.
 
 But to facilitate things, as usual--figures have been exported in the `*.png` format, and clicking on them in this repo *should* show the pictures, no fancy tricks required.
